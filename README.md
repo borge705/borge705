@@ -1,3 +1,3 @@
 ## Hi there!
 
-I'm currently work in Power Platform and I'm trying to build low code skills.
+I use Power Platform for my job. Working toward basic proficiency with HTML, Liquid, PowerFX & Javascript.
